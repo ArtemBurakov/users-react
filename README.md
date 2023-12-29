@@ -18,6 +18,8 @@ This project incorporates the following features:
 
 To clone this repository and run the application locally, use the following commands in your terminal:
 
+> before running the application, make sure that the server part is running on your machine. How to run the server part open [users-golang](https://github.com/ArtemBurakov/users-golang).
+
 ```bash
 git clone https://github.com/ArtemBurakov/users-react.git
 
